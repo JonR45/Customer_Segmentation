@@ -1,5 +1,5 @@
 # Customer Segmentation Project (K-Means Clustering)
-![Customer segmentation project banner](Images/Customer Segmentation Project banner.png)
+![Customer segmentation project banner](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/Customer%20Segmentation%20Project%20banner.png)
 ## Project Overview 
 The goal of the project was to provide insight to a business by identifying clusters, or groups, of customers based on data relating to customer satisfaction and brand loyalty. 
 
@@ -19,14 +19,14 @@ The project required skills and knowledge in the following areas:
 2. I then plotted the data to see if any trends, patterns or clusters immediately stood out. There were two clusters that could loosely be defined as:
   * Low satisfaction and low loyalty. 
   * Higher loyalty with a complete range of satisfaction values.
-![Initial manual clustering](Images/1.3. scatter 2 clusters.png)
+![Initial manual clustering](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/1.3.%20scatter%202%20clusters.png)
 3. Next, I split the graph into four squares to see if this would help with data interpretation… 
-![Split graph into 4 squares](Images/1.4. Customer split loyalty categories.png)
+![Split graph into 4 squares](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/1.4.%20Customer%20split%20loyalty%20categories.png)
 4. ... and it did! There were clearly more/different clusters than the 2 clusters I had identified manually so further cluster solution analysis was required.
 ## Cluster Analysis
 * An initial K-Means clustering attempt revealed that the satisfaction variable needed to be scaled.
 * I then explored the various K-Means solutions, identified different customer groups and decided on a cluster solution.
-![4 Cluster solution](Images/4. K-Means4 cluster names.png)
+![4 Cluster solution](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/4.%20K-Means4%20cluster%20names.png)
 ## Provided Business Insight
 * I summarised how the insight gleaned from the customer segmentation could be used as a starting for further analysis and for informing marketing and promotional strategies. 
 ## Summary
