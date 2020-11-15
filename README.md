@@ -11,9 +11,8 @@ The project required skills and knowledge in the following areas:
 * Problem Solving
 * Business Awareness and Understanding
 
-This project was completed as part of coursework for [The 365 Data Science Program](https://365datascience.com)
-
-Project in Jupyter Notebook: [Customer Segmentation project](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Customer%20segmentation.ipynb)
+- This project was completed as part of coursework for [The 365 Data Science Program](https://365datascience.com)
+- Project in Jupyter Notebook: [Customer Segmentation project](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Customer%20segmentation.ipynb)
 ## Language and Libraries Used
 **Python Version:** 3.7
 
@@ -31,11 +30,10 @@ Project in Jupyter Notebook: [Customer Segmentation project](https://github.com/
 ![Split graph into 4 squares](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/1.4.%20Customer%20split%20loyalty%20categories.png)
 4. ... and it did! There were clearly more/different clusters than the 2 clusters I had identified manually so further cluster solution analysis was required.
 ## Cluster Analysis
-* An initial K-Means clustering attempt revealed that the satisfaction variable needed to be scaled.
+* An initial K-Means clustering attempt revealed that the satisfaction variable needed to be standardized.
 * I then explored the various K-Means solutions, identified different customer groups and decided on a cluster solution.
 ![4 Cluster solution](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/4.%20K-Means4%20cluster%20names.png)
 ## Provided Business Insight
-* I summarised how the insight gleaned from the customer segmentation could be used as a starting for further analysis and for informing marketing and promotional strategies. 
+* I summarised how grouping the customers could be used as a starting point for further analysis and for informing marketing and promotional strategies. 
 ## Summary
 * By analysing the data and trying different K-Means clustering solutions I was able to turn quantitative data into valuable business insight.
-* 4 different groups of customers were identified, and this information can be used by the business as a base for further analysis and/or for informing strategic business decisions.
