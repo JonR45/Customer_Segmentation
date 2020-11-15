@@ -1,0 +1,15 @@
+#ignore Images2 folder (contains images that are only in the jupyter notebook
+# file)
+Images2
+
+#ignore unedited project ipynb file
+Customer segmentation-original.ipynb
+
+#ignore all word files
+*.docx
+
+#ignore system configuration file
+.DS_Store
+
+#ignore jupyter notebook checkpoints file
+.ipynb_checkpoints/
