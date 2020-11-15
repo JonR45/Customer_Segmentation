@@ -13,7 +13,7 @@ The project required skills and knowledge in the following areas:
 
 This project was completed as part of coursework for [The 365 Data Science Program](https://365datascience.com)
 
-Project in Jupyter Notebook: [Customer Segmentation project](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Customer%20segmentation.ipynb)
+Full project notebook: [Customer Segmentation Jupyter Notebook](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Customer%20segmentation.ipynb)
 ## Language and Libraries Used
 **Python Version:** 3.7
 
