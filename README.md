@@ -10,10 +10,17 @@ The project required skills and knowledge in the following areas:
 * Statistics
 * Problem Solving
 * Business Awareness and Understanding
+
+This project was completed as part of coursework for [The 365 Data Science Program](https://365datascience.com)
+
+Project in Jupyter Notebook: [Customer Segmentation project](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Customer%20segmentation.ipynb)
 ## Language and Libraries Used
 **Python Version:** 3.7
+
 **Libraries:** Pandas, numpy, matplotlib, seaborn, scikit-learn
-**Data:** The raw data was provided by [365 Data Science](https://365datascience.com) and this project was completed as part of ['The 365 Data Science Program'](https://365datascience.com)
+
+**Data:** The raw data was provided by [365 Data Science](https://365datascience.com)
+
 ## Exploratory Data Analysis
 1. The first step was to understand the business meaning of the data and get familiar with what the data entailed. 
 2. I then plotted the data to see if any trends, patterns or clusters immediately stood out. There were two clusters that could loosely be defined as:
