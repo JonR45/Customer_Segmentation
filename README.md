@@ -1,7 +1,7 @@
 # Customer Segmentation Project (K-Means Clustering)
 ![Customer segmentation project banner](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/Customer%20Segmentation%20Project%20banner.png)
 ## Project Overview 
-The goal of the project was to provide insight to a business by identifying clusters, or groups, of customers based on data relating to customer satisfaction and brand loyalty. 
+The goal of the project was to provide insight to a business by identifying clusters (groups) of customers based on data relating to customer satisfaction and brand loyalty. 
 
 The project required skills and knowledge in the following areas:
 * Data Analysis
