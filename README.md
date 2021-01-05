@@ -24,8 +24,8 @@ Full project notebook: [Customer Segmentation Jupyter Notebook](https://github.c
 ## Exploratory Data Analysis
 1. The first step was to understand the business meaning of the data and get familiar with what the data entailed. 
 2. I then plotted the data to see if any trends, patterns or clusters immediately stood out. There were two clusters that could loosely be defined as:
-  1. Low satisfaction and low loyalty. 
-  2. Higher loyalty with a complete range of satisfaction values.
+      1. Low satisfaction and low loyalty. 
+      2. Higher loyalty with a complete range of satisfaction values.
 ![Initial manual clustering](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/1.3.%20scatter%202%20clusters.png)
 3. Next, I split the graph into four squares to see if this would help with data interpretation… 
 ![Split graph into 4 squares](https://github.com/JonR45/Customer_Segmentation_Project/blob/master/Images/1.4.%20Customer%20split%20loyalty%20categories.png)
